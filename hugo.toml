@@ -1,0 +1,4 @@
+baseURL = 'https://abirdey.com/'
+languageCode = 'en-us'
+title = 'Abir Dey'
+theme = 'terminal'
